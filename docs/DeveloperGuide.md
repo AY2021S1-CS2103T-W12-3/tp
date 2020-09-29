@@ -321,7 +321,7 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 
 **Extensibility & Documentation**
 * Application should be easily extended by developers looking to improve or expand it.
-* Application should be well-documented such that new developers can be on-boarded quickly just by reading through documentation.
+* Application should be well-documented such that new developers can be on-boarded quickly just by reading thro****ugh documentation.
 
 
 
